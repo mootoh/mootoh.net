@@ -1,0 +1,17 @@
+baseurl: "http://mootoh.net"
+languageCode: "ja"
+title: "mootoh.net"
+author: "mootoh"
+
+permalinks:
+  posts: /:year/:month/:slug/
+
+params:
+  twitter: "https://twitter.com/mootoh"
+  github: "https://github.com/mootoh"
+  copyright: "Motohiro Takayama"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
