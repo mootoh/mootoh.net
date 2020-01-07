@@ -1,4 +1,4 @@
-baseurl = "http://mootoh.net"
+baseurl = "/"
 languageCode = "ja"
 title = "mootoh.net"
 theme = "hugo-lithium-theme"
