@@ -28,6 +28,11 @@ author = "mootoh"
     weight = 4
 
 [params]
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
 
 [taxonomies]
    tag = "tags"
