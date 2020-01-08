@@ -1,10 +1,11 @@
-baseurl = "/"
+baseurl = "https://hardcore-villani-5ede33.netlify.com"
 languageCode = "ja"
 title = "mootoh.net"
 theme = "hugo-lithium-theme"
+paginate = 5
+
 googleAnalytics = ""
 disqusShortname = ""
-disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 author = "mootoh"
 
 [permalinks]
@@ -21,19 +22,12 @@ author = "mootoh"
     name = "Twitter"
     url = "https://twitter.com/mootoh"
 
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
 [params]
-    mainSections = ["post"]
 
-    description = ""
-
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-
-    [params.icon]
-    url = "favicon.ico"
+[taxonomies]
+   tag = "tags"
