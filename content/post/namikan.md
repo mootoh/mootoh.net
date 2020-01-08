@@ -2,12 +2,8 @@
 title: 並カンの思い出
 tags:
   - event
-  - event
-  - namikan
   - namikan
 id: 2022
-categories:
-  - default
 date: 2010-02-04 02:32:07
 ---
 
@@ -17,7 +13,7 @@ date: 2010-02-04 02:32:07
 
 そもそも、なぜ並列プログラミングについて語るのか。この会をひらいた目的はなんだったのか。そのあたりについて話しました。
 
-<div style="width:425px;text-align:left" id="__ss_3055455">[並カン (CM カット版)](http://www.slideshare.net/mootoh/ss-3055455 "並カン (CM カット版)")<object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=namikan-keynote-100202113525-phpapp02&stripped_title=ss-3055455" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=namikan-keynote-100202113525-phpapp02&stripped_title=ss-3055455" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more [presentations](http://www.slideshare.net/) from [Motohiro Takayama](http://www.slideshare.net/mootoh).</div></div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HuX7bEjEMJodi1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mootoh/ss-3055455" title="並カン (CM カット版)" target="_blank">並カン (CM カット版)</a> </strong> from <strong><a href="https://www.slideshare.net/mootoh" target="_blank">Motohiro Takayama</a></strong> </div>
 
 みんながふつうにつかっているコンピュータはすでにマルチコアになっていて、速いプログラムを書きたければ並列プログラミングをするしかない。富豪的アプローチもよいですが、ぼくは遅いプログラムがイヤなのです (これは自戒)。
 
